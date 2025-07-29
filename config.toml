@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#A63F2A"  # Terracota profundo: color cálido, representa tierra, historia y tradición
+backgroundColor="#f8f2e5ff"  # Beige claro: fondo neutro, agradable y culturalmente acogedor
+secondaryBackgroundColor="#D9CBA3"  # Amarillo ocre suave: para paneles secundarios o sidebars
+textColor="#3B2F2F"  # Marrón oscuro: elegante y legible, evoca tinta y escritura ancestral
+font="serif"  # Fuente con remates, más clásica y cultural (ideal para dar sensación de historia o arte)
